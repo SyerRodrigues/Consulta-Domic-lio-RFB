@@ -1,0 +1,10 @@
+# Automação de Consulta de Domicílio da Receita Federal
+
+Este projeto automatiza a consulta de domicílio fiscal de empresas na plataforma eCAC da Receita Federal, utilizando Python e as bibliotecas PyAutoGUI e OpenPyXL. Ele acessa uma planilha Excel com os dados das empresas, realiza as consultas e salva os resultados.
+
+## Requisitos
+
+- Python 3.x
+- Bibliotecas Python:
+  - PyAutoGUI
+  - OpenPyXL
